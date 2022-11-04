@@ -1,0 +1,13 @@
+interfaces\VotacaoInterface.class
+implementacoes\IsEvenImpl.class
+com\model\ServidorDoisM.class
+interfaces\CalculaVoto.class
+implementacoes\CalculaVotoImp.class
+com\model\ServidorDois.class
+com\model\Cliente.class
+implementacoes\VotoImpl.class
+implementacoes\VotacaoImpl.class
+com\model\Servidor.class
+implementacoes\CandidatoImpl.class
+interfaces\CandidatoInterface.class
+interfaces\IsEvenInterface.class
